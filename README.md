@@ -5,8 +5,11 @@
 参考给定的模板，以图文方式提交所在城市的地标景观介绍。
 
 
+![Image of Logo](http://www.yotooapp.site/landmark/landmark_logo.png)
+
+
 参考：
-> markdown语法介绍：https://guides.github.com/features/mastering-markdown/
+> 官方Markdown语法介绍：https://guides.github.com/features/mastering-markdown/
 
 > 这里有中文介绍：https://www.jianshu.com/p/40ba812dd973
 
